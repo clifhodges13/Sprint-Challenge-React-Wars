@@ -12,6 +12,7 @@ export default function CharacterCard(props) {
     border: 1px solid white;
     border-radius: 5px;
     margin: 1%;
+    padding: 1%;
     transition: all .2s ease-in-out;
 
     &:hover {
